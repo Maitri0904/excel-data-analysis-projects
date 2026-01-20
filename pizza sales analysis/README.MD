@@ -35,7 +35,6 @@ The data is fetched directly from SQL Server and analyzed in Excel without manua
 <hr>
 
 <h2>📊 Project Workflow (Step-by-Step)</h2>
-
 <ol>
     <li>
         <b>Database Setup</b>
@@ -65,7 +64,7 @@ The data is fetched directly from SQL Server and analyzed in Excel without manua
         <b>Data Cleaning in Excel</b>
         <ul>
             <li>Removed unnecessary columns</li>
-            <li>Fixed data types (date, numbers)</li>
+            <li>Fixed data types (date and numbers)</li>
             <li>Prepared data for analysis</li>
         </ul>
     </li>
@@ -112,7 +111,7 @@ The data is fetched directly from SQL Server and analyzed in Excel without manua
 
 <h2>🔍 Key Business Insights</h2>
 <ul>
-    <li>Weekends (Friday & Saturday evenings) generate the highest sales</li>
+    <li>Weekends (Friday and Saturday evenings) generate the highest sales</li>
     <li>Classic category contributes the maximum revenue</li>
     <li>Large size pizzas sell the most</li>
     <li>Peak order time is between 12 PM – 1 PM and 6 PM – 8 PM</li>
@@ -142,8 +141,8 @@ The data is fetched directly from SQL Server and analyzed in Excel without manua
 
 <h2>✅ Conclusion</h2>
 <p>
-This project shows how SQL and Excel can work together for real-time business analysis.
-It demonstrates practical data analyst skills like data extraction, cleaning, analysis, and visualization.
+This project shows how SQL Server and Excel work together for real-time business analysis.
+It demonstrates practical data analyst skills such as data extraction, cleaning, analysis, and visualization.
 </p>
 
 </body>
