@@ -80,7 +80,7 @@ and <b>interactive dashboards</b> for business insights and decision-making.
   <li>Sales vs Profit Comparison</li>
 </ul>
 
-<img src="images/sales_dashboard.png" alt="Sales Dashboard" width="100%">
+<img src="sales_dashboard.png" alt="Sales Dashboard" width="100%">
 
 <hr>
 
@@ -92,7 +92,7 @@ and <b>interactive dashboards</b> for business insights and decision-making.
   <li>Most Profitable Category</li>
 </ul>
 
-<img src="images/category_dashboard.png" alt="Category Dashboard" width="100%">
+<img src="category_dashboard.png" alt="Category Dashboard" width="100%">
 
 <hr>
 
@@ -105,7 +105,7 @@ and <b>interactive dashboards</b> for business insights and decision-making.
   <li>Peak Order Month</li>
 </ul>
 
-<img src="images/customer_dashboard.png" alt="Customer Dashboard" width="100%">
+<img src="customer_dashboard.png" alt="Customer Dashboard" width="100%">
 
 <hr>
 
@@ -117,7 +117,7 @@ and <b>interactive dashboards</b> for business insights and decision-making.
   <li>Category-wise Leading Cities</li>
 </ul>
 
-<img src="images/region_dashboard.png" alt="Region Dashboard" width="100%">
+<img src="region_dashboard.png" alt="Region Dashboard" width="100%">
 
 <hr>
 
@@ -130,7 +130,7 @@ and <b>interactive dashboards</b> for business insights and decision-making.
   <li>Monthly Profit by Region</li>
 </ul>
 
-<img src="images/profit_dashboard.png" alt="Profit Dashboard" width="100%">
+<img src="profit_dashboard.png" alt="Profit Dashboard" width="100%">
 
 <hr>
 
